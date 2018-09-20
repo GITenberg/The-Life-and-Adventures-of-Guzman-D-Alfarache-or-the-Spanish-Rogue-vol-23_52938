@@ -1,0 +1,43 @@
+_repo: The-Life-and-Adventures-of-Guzman-D-Alfarache-or-the-Spanish-Rogue-vol-23_52938
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Le Sage, Alain René
+    aliases:
+    - Lesage, Alain-René
+    - Sage, Alain René Le
+    - Sage, Alain-René le
+    - Le Sage, Alain Rene
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+  - agent_name: Brady, John Henry
+    gutenberg_agent_id: '47051'
+    url: http://www.gutenberg.org/2009/agents/47051
+creator:
+  author:
+    agent_name: Alemán, Mateo
+    aliases:
+    - Alemán, Matheo
+    - Aleman, Mateo
+    birthdate: 1547
+    gutenberg_agent_id: '49350'
+    url: http://www.gutenberg.org/2009/agents/49350
+description: ''
+gutenberg_issued: '2016-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- Classical period, 1500-1700'
+- !lcsh 'Picaresque fiction'
+- GITenberg
+title: The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 2/3
+url: http://www.gutenberg.org/ebooks/52938
