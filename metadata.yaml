@@ -16,6 +16,9 @@ contributor:
   - agent_name: Brady, John Henry
     gutenberg_agent_id: '47051'
     url: http://www.gutenberg.org/2009/agents/47051
+covers:
+- cover_type: archival
+  image_path: 52938-h/images/cover.jpg
 creator:
   author:
     agent_name: Alemán, Mateo
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '49350'
     url: http://www.gutenberg.org/2009/agents/49350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52938#The-Life-and-Adventures-of-Guzman-D-Alfarache-or-the-Spanish-Rogue-vol-23
 gutenberg_issued: '2016-08-30'
 gutenberg_type: Text
 identifiers:
